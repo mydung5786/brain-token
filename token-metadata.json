@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-{ "name": "The Brain!", "symbol": "THEBRAIN", "image": "https://github.com/mydung5786/token-list/raw/main/image.png", "seller_fee_basis_points": 500, "creators": [ { "name": "Jota Te Dinero", "address": "52JUHf77w1K43Gqa5WFUWK7ku31gqVfmrvznBRncK1vW", "share": 100 } ], "tags": [], "description": "The Brain!", "website": "https://github.com/mydung5786/token-list/blob/main/token-metadata.json", "extensions": { "website": "https://github.com/mydung5786/token-list/blob/main/token-metadata.json", "twitter": "", "discord": "" } } 
-=======
 {
   "name": "The Brain!",
   "symbol": "THEBRAIN",
@@ -9,7 +6,7 @@
   "creators": [
     {
       "name": "Jota Te Dinero",
-      "address": "52JUHf77w1K43Gqa5WFUWK7ku31gqVfmrvznBRncK1vW",
+      "address": "4pjaNcKsj4bZdmMgP8L8RYn95bmKDKvwu95Cy9UewpWw",
       "share": 100
     }
   ],
@@ -22,5 +19,3 @@
     "discord": ""
   }
 }
-
->>>>>>> 45ec58e50f2d45d9e6957f00e7540da21577dac1
